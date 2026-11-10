@@ -26,3 +26,5 @@ CLI that displays recent GitHub activity for a selected user.
 `env.env` is ignored by Git and must never be committed or shared.
 
 https://github.com/slotkikuba/github-user-activity-cli
+
+https://roadmap.sh/projects/github-user-activity
